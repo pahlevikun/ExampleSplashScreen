@@ -1,4 +1,6 @@
 # ExampleSplashScreen
+Assalamualaikum, 
+<br/>
 Ini adalah contoh aplikasi sederhana, dimana disini kita akan membuat Splash Screen yang ditambah dengan animasi sederhana dengan
 menggunakan file xml yang disimpan pada folder anim, sehingga akan menjadi lebih menarik.
 </br></br></br>
